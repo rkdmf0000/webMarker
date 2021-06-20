@@ -15,7 +15,7 @@
 |rkdmf0000@gmail.com  |`혼자 하는 중`    |
 
 > 2021.06.06 기능 개선
-> 2021.06.20 노트북 2개로 라이브서버 구성 `home.h58ax40kor8eqarmap.online/adm/menu`
+> 2021.06.20 노트북 2개로 라이브서버 구성 `home.h58ax40kor8eqarmap.online/adm`
 
 ## 대략적인 파일 구조
 
